@@ -1,6 +1,6 @@
 # Python para Data Science: trabalhando com funções, estruturas de dados e exceções
 
-Pricipais topicos do curso:
+Pricipais tópicos do curso:
 
 - Entendendo as funções das bibliotecas e pacotes na linguagem Python
 - Conhecendo as built-in functions e suas utilidades
