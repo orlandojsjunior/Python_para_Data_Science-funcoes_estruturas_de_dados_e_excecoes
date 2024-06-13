@@ -1,10 +1,9 @@
-# Curso de Python para Data Science
+# [Formação Python para Data Science](https://cursos.alura.com.br/formacao-data-science-python)
 
-## Trabalhando com funções, estruturas de dados e exceções
+## [Trabalhando com funções, estruturas de dados e exceções](https://cursos.alura.com.br/course/python-data-science-funcoes-estruturas-dados-excecoes)
 
-**Esse curso faz parte da [Formação Python para Data Science](https://cursos.alura.com.br/formacao-data-science-python)**
 
-Principais tópicos do curso:
+### Principais tópicos do curso:
 
 - Entendendo as funções das bibliotecas e pacotes na linguagem Python
 - Conhecendo as built-in functions e suas utilidades
